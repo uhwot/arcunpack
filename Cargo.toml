@@ -1,0 +1,10 @@
+[package]
+name = "arcunpack"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+binrw = "0.14"
+anyhow = "1.0"
+lzokay-native = "0.1"
+md-5 = "0.10"
